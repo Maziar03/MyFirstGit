@@ -1,7 +1,11 @@
 .style {
-  color: aqua;
+  color: rgb(41, 160, 39);
   font-size: 30px;
   font-family: "Times New Roman", Times, serif;
   font-style: italic;
   font-weight: 600;
+  background-color: rgb(209, 34, 34);
+}
+.style:hover {
+  background-color: rgb(67, 226, 43);
 }
